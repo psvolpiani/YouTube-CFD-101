@@ -6,7 +6,7 @@
 # Class 10: Solve the 2D heat equation using a 2-order central-difference scheme
 # Book: "The minimum you need to know to write your own CFD solver"
 # Author: Pedro Stefanin Volpiani
-# Online course: https://youtu.be/JQxPUU57nkg
+# Online course: https://youtu.be/GPalSj1Bpqc
 #
 ################################################################
 
